@@ -1,4 +1,4 @@
-const url = "https://celebrated-frangollo-ada376.netlify.app/api/v1/post/";
+const url = "https://twyr4sw8mq.loclx.io/api/v1/post/";
 
 const PostService = {
     getPost : async () =>{
