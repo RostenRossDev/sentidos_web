@@ -1,4 +1,4 @@
-const url = "http://127.0.0.1:8080/api/v1/post/";
+const url = "https://celebrated-frangollo-ada376.netlify.app/api/v1/post/";
 
 const PostService = {
     getPost : async () =>{
